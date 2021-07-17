@@ -48,11 +48,11 @@ For More Details Click Help Button Below..
 """
     
     ABOUT_TEXT = """
-🤖 𝗠𝗬 𝗡𝗔𝗠𝗘 : <a href="MoviesBOT">BOT</a>
+🤖 𝗠𝗬 𝗡𝗔𝗠𝗘 : <a href="https://t.me/worldmovies_new">BOT</a>
 
 📣𝗖𝗛𝗔𝗡𝗡𝗘𝗟 : <a href="https://t.me/Tamil_movies_group_link">group2</a>
 
-👲 𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥 : <a href="">MOVIE MAN</a>❤
+👲 𝗗𝗘𝗩𝗟𝗢𝗣𝗘𝗥 : <a href="https://t.me/Tamil_movies_group_link">MOVIE MAN</a>❤
 
 📜𝗟𝗔𝗡𝗚𝗨𝗔𝗚𝗘 : <a href="https://www.python.org/">Python3</a>
 
