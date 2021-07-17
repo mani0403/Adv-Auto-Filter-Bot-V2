@@ -1608,7 +1608,7 @@ async def cb_about(bot, update: CallbackQuery):
         [
             InlineKeyboardButton
                 (
-                    "My Dev ⚡", url="https://t.me/jintons"
+                    "My Dev ⚡", url="https://t.me/worldmovies_new"
                 ),
                 
             InlineKeyboardButton
@@ -1639,10 +1639,10 @@ async def callback_data(bot, update: CallbackQuery):
 
     if query_data == "start":
         buttons = [[
-            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/jintons'),
+            InlineKeyboardButton('My Dev 👨‍🔬', url='https://t.me/worldmovies_new'),
             InlineKeyboardButton('Source Code 🧾', url ='https://t.me/githubsoursecode')
         ],[
-            InlineKeyboardButton('Support 🛠', url='https://t.me/jns_bots')
+            InlineKeyboardButton('Support 🛠', url='https://t.me/Tamil_movies_group_link')
         ],[
             InlineKeyboardButton('Help ⚙', callback_data="help")
         ]]
